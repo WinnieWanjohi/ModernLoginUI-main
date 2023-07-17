@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "738051894931",
+    "project_id": "mobileapp-8b3bb",
+    "storage_bucket": "mobileapp-8b3bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738051894931:android:5310153119234e65842766",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738051894931-lonqrtukirlgvugrlpbcf6hiks8hrgn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtb5jj-R_KnzlmUmrMPlwMZRyGOPyrIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738051894931-lonqrtukirlgvugrlpbcf6hiks8hrgn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738051894931-8kn3v34kvng4t26m4kr66e29l6ijd0ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modernlogintute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
